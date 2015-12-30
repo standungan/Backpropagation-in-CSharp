@@ -1,0 +1,18 @@
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\bin\Debug\BackpropagationNet.exe.config
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\obj\Debug\BackpropagationNet.csprojResolveAssemblyReference.cache
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\obj\Debug\BackpropagationNet.Form1.resources
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\obj\Debug\BackpropagationNet.Properties.Resources.resources
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\obj\Debug\BackpropagationNet.csproj.GenerateResource.Cache
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\bin\Debug\BackpropagationNet.exe
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\bin\Debug\BackpropagationNet.pdb
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\obj\Debug\BackpropagationNet.exe
+c:\users\genuis\documents\visual studio 2012\Projects\BackpropagationNet\BackpropagationNet\obj\Debug\BackpropagationNet.pdb
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\bin\Debug\BackpropagationNet.exe.config
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\obj\Debug\BackpropagationNet.exe
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\obj\Debug\BackpropagationNet.pdb
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\bin\Debug\BackpropagationNet.exe
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\bin\Debug\BackpropagationNet.pdb
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\obj\Debug\BackpropagationNet.csprojResolveAssemblyReference.cache
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\obj\Debug\BackpropagationNet.Form1.resources
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\obj\Debug\BackpropagationNet.Properties.Resources.resources
+C:\Users\Genuis\Documents\Visual Studio 2012\Projects\BackpropagationNet - Copy\BackpropagationNet\obj\Debug\BackpropagationNet.csproj.GenerateResource.Cache
